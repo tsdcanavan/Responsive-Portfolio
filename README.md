@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Make basic responsive
+# Basic-Portfolio
+My basic portfolio repository
